@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**brushknight/brushknight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Software Engineer** · **Maker**  
+Passionate about building robust systems, AI-native tools, and beautiful user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently building [`cyberbrain.sh`](https://cyberbrain.sh) — an AI-native memory system for notes, thoughts, photos, and ideas.
+
+### 🛠 What I work with
+- **Backend**: Go, Python  
+- **Frontend**: React  
+- **AI Workloads**: LLMs, vector search, memory architecture  
+- **Hardware**: PCB prototyping, 3D modeling  
+- **DevOps**: CI/CD, systems design, deployment pipelines  
+- **Mobile**: iOS apps with SwiftUI
+
+---
+
+📬 **Open to new projects**  
+If you're looking for someone who can design and build across the stack — backend, frontend, AI, hardware, or mobile — feel free to reach out.
+
+> Simplicity, precision, and systems thinking in everything I build.
