@@ -1,8 +1,13 @@
-# Hi, I'm Grigorii 👋
+# I design what money can't buy.
 
-**I make things money can buy.**
+**Hardware & software engineer**
 
-Software and hardware engineer in Barcelona. I design devices, take them all the way to production, and film every step for 150k people on [Instagram](https://instagram.com/brushknight). Some ship as products, the rest ship as open-source files right here.
+---
+
+→ [collab@brushknight.com](mailto:collab@brushknight.com)  
+↓ [Build notes, files & lessons](https://brushknight.com)
+
+I design devices, take them all the way to production, and film every step for 150k people on [Instagram](https://instagram.com/brushknight).
 
 [brushknight.com](https://brushknight.com) · [Instagram](https://instagram.com/brushknight) · [TikTok](https://tiktok.com/@brushknight) · [YouTube](https://youtube.com/@brushknight) · [X](https://x.com/brushknight) · [LinkedIn](https://linkedin.com/in/brushknight)
 
